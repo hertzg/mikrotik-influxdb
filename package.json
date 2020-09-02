@@ -4,7 +4,7 @@
   "main": "src/index.js",
   "license": "MIT",
   "dependencies": {
-    "bl": "^4.0.2",
+    "bl": "^4.0.3",
     "@network-utils/ip-range": "^1.0.2"
   },
   "scripts": {
